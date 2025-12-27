@@ -7,8 +7,14 @@ export default function AccountDetailsCard({ details }) {
 
       <div className="rows">
         <Row label="Role" value={details.Role} />
-        <Row label="Status" value={<span className="pill">{details["Status"]}</span>} />
-        <Row label="Verification" value={<span className="verified">✓ Verified</span>} />
+        <Row
+          label="Status"
+          value={<span className="pill">{details["Status"]}</span>}
+        />
+        <Row
+          label="Verification"
+          value={<span className="verified">✓ {details["Verification"]}</span>}
+        />
       </div>
     </div>
   );

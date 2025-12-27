@@ -7,7 +7,7 @@ function App() {
     name: "Fatima Rahmani",
     username: "@fatimarahmani",
     avatarImage: avatarImage,
-    xp: 80,
+    xp: 90,
     lastActive: 'Sep 22 2025',
     strakDays: 2,
     longestStrakDays: 2,
@@ -21,7 +21,7 @@ function App() {
       City: 'Kabul',
       'Date of birth': 'Jan 1, 1999',
       'Teaching experience': '2 years',
-      'Phone number': '+93 700 000 000',
+      'Phone number': '+93 7********',
       LinkedIn: 'linkedin.com/in/fatimarahmani',
       Languages: 'Dari, Pashto, English',
       Bio: 'Passionate educator dedicated to empowering students through innovative teaching methods and fostering a love for learning.'
